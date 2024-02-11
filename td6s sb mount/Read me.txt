@@ -1,0 +1,1 @@
+the mount is for the tl td6s hotend it allows the nozzleswap with the toolhead installed you can get to the setscrew with a ballend 2 hex thru the 4010 fan and so sawp the nozzle without deinstalling the whole hotend 
